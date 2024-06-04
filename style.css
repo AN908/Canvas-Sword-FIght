@@ -1,0 +1,16 @@
+#Sword-Fight {
+  border: 2px solid black;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  display: none;
+  rotate: auto;
+}
+
+#Weapon2 {
+  transform: rotate(90deg);
+}
